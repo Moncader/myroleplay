@@ -1,0 +1,1 @@
+An addon for the MMORPG World of Warcraft that aims to help role-players to have a more enjoyable time. It allows you to add extra information to your character that other users of MyRolePlay can see. Information such as a last name, middle name, prefix, physical description, history, motto, and many others.
